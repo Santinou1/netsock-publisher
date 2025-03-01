@@ -107,6 +107,7 @@ Se implementaron los siguientes nuevos endpoints:
 ### 5. Integración con el Módulo App-Ranking
 
 El módulo `app-ranking` se integra con el módulo `publishers` para proporcionar información complementaria sobre las aplicaciones mejor clasificadas. Las mejoras realizadas en el módulo `publishers` también benefician indirectamente al módulo `app-ranking` al:
+(Este modulo falta optimizarlo ,debido que las consultas se demoran bastante y ofrece una Experiencia de Usuario poco gratificante)
 
 - Reducir la carga general en la base de datos
 - Proporcionar datos más consistentes sobre los publishers
